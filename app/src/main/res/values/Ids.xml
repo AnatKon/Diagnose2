@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dest1" type="id"/>
+    <item name="dest2" type="id"/>
+    <item name="dest3" type="id"/>
+    <item name="dest4" type="id"/>
+    <item name="frame" type="id"/>
+    <item name="target" type="id"/>
+    <item name="src1" type="id"/>
+    <item name="src2" type="id"/>
+    <item name="src3" type="id"/>
+    <item name="src4" type="id"/>
+    <item name="src5" type="id"/>
+    <item name="src6" type="id"/>
+    <item name="src7" type="id"/>
+    <item name="src8" type="id"/>
+    <item name="src9" type="id"/>
+    <item name="src10" type="id"/>
+</resources>
